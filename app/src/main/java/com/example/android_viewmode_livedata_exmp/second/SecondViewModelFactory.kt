@@ -1,4 +1,4 @@
-package com.example.android_viewmode_livedata_exmp.withdatabinding
+package com.example.android_viewmode_livedata_exmp.second
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
